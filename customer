@@ -1,0 +1,1 @@
+create table customer sid(int),sname(nvarchar),dept nvarchar(),sage(int); file
